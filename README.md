@@ -13,6 +13,6 @@ Project 2 : Supervised Machine-learning Algorithm
              3)K-nearest neighbour
              4)Decision tree
              
-             find the accuracy of different models trained on the DataSet and show the comparison between them.
+             Task--find the accuracy of different models trained on the DataSet and show the comparison between them.
              
              
