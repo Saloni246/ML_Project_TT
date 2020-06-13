@@ -7,6 +7,7 @@ Project 1 : Visualisation of Data
             Dataset 2: Continent-Country Names
 
 Project 2 : Supervised Machine-learning Algorithm
+            
              1)Logistic Regression
              2)Support Vector Machines
              3)K-nearest neighbour
