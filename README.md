@@ -15,4 +15,15 @@ Project 2 : Supervised Machine-learning Algorithm
              
              Task--find the accuracy of different models trained on the DataSet and show the comparison between them.
              
+Project 3 : Unsupervised Machine-learning Algorithm
+
+             1)K-mean Clustering
+                -Plot elbow graph
+                -Find value of number of clusters
+             2)Hierarchial Clustering
+                -Plot Dendrogram
+                -Find value of number of clusters
+             3)DBSCAN
+               -Find Minimum value and Eps(radius)
              
+             Task-Draw comparison among them by drawing clustering graph
